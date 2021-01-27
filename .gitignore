@@ -1,0 +1,11 @@
+*.cmake/
+*CMakeCache.txt
+*CMakeFiles/
+*.user
+CorruptedToCorrected
+*Makefile
+*.cmake
+core
+*.so
+Testing/
+UnitTests

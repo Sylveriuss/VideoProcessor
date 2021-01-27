@@ -1,0 +1,5 @@
+debug=false
+video_filename=../Data/corrupted_video.mp4
+output_directory=../Data/output/
+matches_threshold=190
+reverse_video=true
