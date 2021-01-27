@@ -1,2 +1,0 @@
-https://gist.github.com/itsrifat/66b253db2736b23f247c
-https://stackoverflow.com/questions/32346861/how-to-write-a-generic-print-for-vector-of-vectors-using-c
